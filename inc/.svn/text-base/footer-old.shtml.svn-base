@@ -1,0 +1,26 @@
+<!-- Normal content area end -->
+</div>
+
+</div>
+
+<div id="footer">
+<div class="left">
+<span class="un_jtt_hide">
+<a href="http://transcoder.usablenet.com/tt/referrer" rel="nofollow">Text Version</a>
+</span>
+ |
+&copy; <!--#config timefmt="%Y" --><!--#echo var="DATE_LOCAL" --> 
+<script type="text/javascript">
+// <![CDATA[
+document.write(writemail('sookoor', 'cs.virginia', 'edu', 'Tamim Sookoor'));
+// ]]>
+</script>
+|
+Design by <a href="http://www.nodethirtythree.com/">NodeThirtyThree Design</a>
+</div>
+</div> 
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tamim Sookoor</title>
+  <link href="http://www.cs.virginia.edu/~tis5m" />
+  <id>http://www.cs.virginia.edu/~tis5m</id>
+  <author>
+    <name>www.cs.virginia.edu/~tis5m</name>
+  </author>
+  <updated>2009-05-11T05:29:20Z</updated>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/macrolab.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/macrolab.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/vitae.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/vitae.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/search.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/search.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/publications.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/publications.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/phpincludes/header.php</id>
+    <title>Tamim Sookoor :: &lt;?php echo $thisPage; ?&gt;</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/phpincludes/header.php" />
+    <summary>Personal site of Tamim Sookoor for Computer Science</summary>
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/luster.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/luster.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/links.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/links.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/index.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/index.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/contact.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/contact.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/academics.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/academics.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/research.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/research.php" />
+    <summary />
+    <updated>2009-05-11T05:16:51Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/research.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/research.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/academics.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/academics.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/search.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/search.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/vitae.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/vitae.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/publications.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/publications.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/macroprogramming.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/macroprogramming.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/luster.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/luster.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/links.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/links.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/index.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/index.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/zenlike/contact.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/zenlike/contact.php" />
+    <summary />
+    <updated>2009-05-11T05:16:49Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/publications.php</id>
+    <title>Tamim Sookoor :: &lt;?php echo "$thisPage" ?&gt;</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/publications.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/header.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/header.php" />
+    <summary>Personal site of Tamim Sookoor for Computer Science</summary>
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/bottom.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/bottom.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/research.php</id>
+    <title>Tamim Sookoor :: &lt;?php echo "$thisPage" ?&gt;</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/research.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/navigation.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/navigation.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/macroprogramming.php</id>
+    <title>Tamim Sookoor :: &lt;?php echo "$thisPage" ?&gt;</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/macroprogramming.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/luster.php</id>
+    <title>Tamim Sookoor :: &lt;?php echo "$thisPage" ?&gt;</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/luster.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/links.php</id>
+    <title>Tamim Sookoor :: &lt;?php echo "$thisPage" ?&gt;</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/links.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/contact.php</id>
+    <title>Tamim Sookoor :: home</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/contact.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/top.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/phpincludes/top.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/index.php</id>
+    <title>Tamim Sookoor :: home</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/index.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/oldSite/academics.php</id>
+    <title>Tamim Sookoor :: &lt;?php echo "$thisPage" ?&gt;</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/oldSite/academics.php" />
+    <summary />
+    <updated>2009-05-11T05:16:48Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/homepage-layout.html</id>
+    <title>Home page of Tamim I. Sookoor</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/homepage-layout.html" />
+    <summary />
+    <updated>2009-05-11T05:16:47Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/homepage-layout-strict.html</id>
+    <title>Home page of Tamim I. Sookoor</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/homepage-layout-strict.html" />
+    <summary />
+    <updated>2009-05-11T05:16:47Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/footer.html</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/footer.html" />
+    <summary />
+    <updated>2009-05-11T05:16:46Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/bottom.html</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/bottom.html" />
+    <summary />
+    <updated>2009-05-11T05:16:46Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/head.html</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/head.html" />
+    <summary />
+    <updated>2009-05-11T05:16:46Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/top-secondary.html</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/top-secondary.html" />
+    <summary />
+    <updated>2009-05-11T05:16:46Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/top.html</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/inc/top.html" />
+    <summary />
+    <updated>2009-05-11T05:16:46Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pmwiki.php</id>
+    <title>Redirect</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pmwiki.php" />
+    <summary />
+    <updated>2009-05-11T05:16:45Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/docs/sample-config.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/docs/sample-config.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/authuser.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/authuser.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/light/demoviews.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/light/demoviews.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/light/light.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/light/light.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/light/lightviews.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/light/lightviews.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/print/print.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/print/print.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/vardoc.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/vardoc.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/urlapprove.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/urlapprove.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/stdmarkup.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/stdmarkup.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/simuledit.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/simuledit.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/caches.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/caches.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/pgcust.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/pgcust.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/pagerev.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/pagerev.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/notify.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/notify.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/forms.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/forms.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/feeds.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/feeds.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/author.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/author.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/crypt.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/crypt.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/compat1x.php</id>
+    <title>Convert v1 pages to v2</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/compat1x.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/phpdiff.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/scripts/phpdiff.php" />
+    <summary />
+    <updated>2009-05-11T05:16:43Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/lean/lean.php</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/pmwiki/pub/skins/lean/lean.php" />
+    <summary />
+    <updated>2009-05-11T05:16:42Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/robot2.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/robot2.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/robot1.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/robot1.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/projects.htm</id>
+    <title>Tamim Sookoor: Projects</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/projects.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/downloads.htm</id>
+    <title>Don Quixote: The Temperarure Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/downloads.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/donquixote.htm</id>
+    <title>Don Quixote: The Temperarure Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/donquixote.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/documentation.htm</id>
+    <title>Don Quixote: The Temperarure Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/documentation.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/robotlinks.htm</id>
+    <title>Don Quixote: The Temperarure Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/robotlinks.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/board1.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/board1.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan3.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan3.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/datasheets.htm</id>
+    <title>Don Quixote: The Temperarure Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/datasheets.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sensors2.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sensors2.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/tamim1.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/tamim1.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/tamim2.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/tamim2.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/tamim3.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/tamim3.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/inc/menu.html</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/inc/menu.html" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan2.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan2.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan1.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan1.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan4.htm</id>
+    <title>Don Quixote: The Temperature Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/atakan4.htm" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/inc/head.html</id>
+    <title>Don Quixote: The Temperarure Measuring Robot</title>
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/inc/head.html" />
+    <summary />
+    <updated>2009-05-11T05:16:41Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/OS_CPU.h</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/OS_CPU.h" />
+    <summary />
+    <updated>2009-05-11T05:15:59Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/9s12dp256.h</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/9s12dp256.h" />
+    <summary />
+    <updated>2009-05-11T05:15:59Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/serial.h</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/serial.h" />
+    <summary />
+    <updated>2009-05-11T05:15:59Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/OS_CFG.h</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/OS_CFG.h" />
+    <summary />
+    <updated>2009-05-11T05:15:59Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/ports.h</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/ports.h" />
+    <summary />
+    <updated>2009-05-11T05:15:59Z</updated>
+  </entry>
+  <entry>
+    <id>http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/INCLUDES.h</id>
+    <title />
+    <link href="http://www.cs.virginia.edu/~tis5m/tags/public_html_old/donQuixote/sw/INCLUDES.h" />
+    <summary />
+    <updated>2009-05-11T05:15:59Z</updated>
+  </entry>
+</feed>
