@@ -45,10 +45,15 @@ include("phpincludes/header.php");
   
   <h3>2011</h3>
   
-  <ul>
-    <li>Timothy Hnat, Vijay Srinivasan, Jiakang Lu, Tamim Sookoor, Raymond Dawson, John Stankovic, and Kamin Whitehouse. <a href="docs/hnat11hitchhikers.pdf" onClick="javascript:pageTracker._trackPageview('docs/hnat11hitchhikers.pdf'); ">The Hitchhiker's Guide to Successful Residental Sensing Deployments</a>. The 9th ACM Conference on Embedded Networked Sensing Systems (SenSys'11). November 2-4, 2011, Seattle, WA. (<a href="docs/hnat-sensys11.pptx" onClick="javascript:pageTracker._trackPageview('docs/hnat-sensys11.pptx'); ">ppt</a>) [19.5% acceptance rate]
-    </li>
-  </ul>
+  <!-- ACM DL Article: The hitchhiker's guide to successful residential sensing deployments-->
+  <div class="acmdlitem" id="item2070966"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6503248" title="The hitchhiker's guide to successful residential sensing deployments">The hitchhiker's guide to successful residential sensing deployments</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81384621735" >Timothy W. Hnat</a>, <a href="http://dl.acm.org/author_page.cfm?id=81350594186" >Vijay Srinivasan</a>, <a href="http://dl.acm.org/author_page.cfm?id=81384604403" >Jiakang Lu</a>, <a href="http://dl.acm.org/author_page.cfm?id=81384616704" >Tamim I. Sookoor</a>, <a href="http://dl.acm.org/author_page.cfm?id=81490677178" >Raymond Dawson</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100649428" >John Stankovic</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100551318" >Kamin Whitehouse</a><br />SenSys '11 Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems, 2011</div></div>
+  <!-- ACM DL Bibliometrics: The hitchhiker's guide to successful residential sensing deployments-->
+  <div class="acmdlstat" id ="stats2070966"><iframe src="http://dl.acm.org/authorizestats?6503248" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+
+  <!-- <ul> -->
+  <!--   <li>Timothy Hnat, Vijay Srinivasan, Jiakang Lu, Tamim Sookoor, Raymond Dawson, John Stankovic, and Kamin Whitehouse. <a href="docs/hnat11hitchhikers.pdf" onClick="javascript:pageTracker._trackPageview('docs/hnat11hitchhikers.pdf'); ">The Hitchhiker's Guide to Successful Residental Sensing Deployments</a>. The 9th ACM Conference on Embedded Networked Sensing Systems (SenSys'11). November 2-4, 2011, Seattle, WA. (<a href="docs/hnat-sensys11.pptx" onClick="javascript:pageTracker._trackPageview('docs/hnat-sensys11.pptx'); ">ppt</a>) [19.5% acceptance rate] -->
+  <!--   </li> -->
+  <!-- </ul> -->
   
   <h3>2010</h3>
   
