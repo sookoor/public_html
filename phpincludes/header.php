@@ -35,7 +35,7 @@
 				<ul>
 					<li <?php if ($thisPage=="Home") {echo "class=\"current_page_item\"";} ?>><a href="index.php">Home</a></li>
 					<li <?php if ($thisPage=="Research") {echo "class=\"current_page_item\"";} ?>><a href="research.php">Research</a></li>
-					<li <?php if ($thisPage=="Publications") {echo "class=\"current_page_item\"";} ?>><a href="publications.php">Publication</a></li>
+					<li <?php if ($thisPage=="Publications") {echo "class=\"current_page_item\"";} ?>><a href="publications.php">Publications</a></li>
 					<li <?php if ($thisPage=="Vitae") {echo "class=\"current_page_item\"";} ?>><a href="docs/sookoor-cv.pdf">Vitae</a></li>
 					<li <?php if ($thisPage=="Application") {echo "class=\"current_page_item\"";} ?>><a href="app.php">Job Application Materials</a></li>
 				</ul>
